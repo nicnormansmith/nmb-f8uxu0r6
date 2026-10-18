@@ -4,16 +4,16 @@
     <title>Nic's Morning Brief</title>
     <link>https://nicnormansmith.github.io/nmb-f8uxu0r6/</link>
     <atom:link href="https://nicnormansmith.github.io/nmb-f8uxu0r6/feed.xml" rel="self" type="application/rss+xml" />
-    <description>A private six-minute morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</description>
+    <description>A private morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 18 Oct 2026 06:04:48 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:22:46 +0200</lastBuildDate>
     <image>
       <url>https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg</url>
       <title>Nic's Morning Brief</title>
       <link>https://nicnormansmith.github.io/nmb-f8uxu0r6/</link>
     </image>
     <itunes:author>News</itunes:author>
-    <itunes:summary>A private six-minute morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</itunes:summary>
+    <itunes:summary>A private morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</itunes:summary>
     <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
     <itunes:category text="News">
       <itunes:category text="Daily News" />
@@ -23,6 +23,19 @@
     <itunes:private>yes</itunes:private>
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
+    <item>
+      <title>Test: IBM results special (July's second-quarter figures) — Sunday 18 October 2026</title>
+      <itunes:title>Test: IBM results special (July's second-quarter figures) — Sunday 18 October 2026</itunes:title>
+      <description>&lt;p&gt;Test: IBM results special (July's second-quarter figures) — Sunday 18 October 2026.&lt;/p&gt;&lt;p&gt;A test edition using IBM's second-quarter 2026 figures from July, to show the results-special format: the numbers, IBM Consulting, cash and guidance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ibm-release ((news) IBM newsroom, 22 Jul 2026: [IBM releases second-quarter results]()): &lt;a href="https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS"&gt;newsroom.ibm.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ibm-remarks ((news) IBM investor relations, 22 Jul 2026: [IBM 2Q26 earnings prepared remarks (PDF)]()): &lt;a href="https://www-api.ibm.com/adobe/assets/urn:aaid:aem:023c55fc-8c53-428f-a5cf-42cb35bb78db/original/as/ibm-2q-26-earnings-prepared-remarks.pdf"&gt;www-api.ibm.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ibm-letter ((news) IBM (SEC Form 8-K, Exhibit 99.1), 14 Jul 2026: [Arvind Krishna's letter to IBM investors]()): &lt;a href="https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/ibm-20260714xex991.htm"&gt;sec.gov&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ibm-q1-release ((reference) IBM newsroom, 22 Apr 2026: [IBM releases first-quarter results (previous guidance)]()): &lt;a href="https://newsroom.ibm.com/2026-04-22-IBM-RELEASES-FIRST-QUARTER-RESULTS"&gt;newsroom.ibm.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ibm-calendar ((reference) IBM newsroom, 7 Oct 2026: [IBM to announce third-quarter 2026 financial results]()): &lt;a href="https://newsroom.ibm.com/2026-10-07-ibm-to-announce-third-quarter-2026-financial-results"&gt;newsroom.ibm.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Market reaction&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ibm-cnbc ((news) CNBC, 14 Jul 2026: [IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning]()): &lt;a href="https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"&gt;cnbc.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded>&lt;p&gt;Test: IBM results special (July's second-quarter figures) — Sunday 18 October 2026.&lt;/p&gt;&lt;p&gt;A test edition using IBM's second-quarter 2026 figures from July, to show the results-special format: the numbers, IBM Consulting, cash and guidance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ibm-release ((news) IBM newsroom, 22 Jul 2026: [IBM releases second-quarter results]()): &lt;a href="https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS"&gt;newsroom.ibm.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ibm-remarks ((news) IBM investor relations, 22 Jul 2026: [IBM 2Q26 earnings prepared remarks (PDF)]()): &lt;a href="https://www-api.ibm.com/adobe/assets/urn:aaid:aem:023c55fc-8c53-428f-a5cf-42cb35bb78db/original/as/ibm-2q-26-earnings-prepared-remarks.pdf"&gt;www-api.ibm.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ibm-letter ((news) IBM (SEC Form 8-K, Exhibit 99.1), 14 Jul 2026: [Arvind Krishna's letter to IBM investors]()): &lt;a href="https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/ibm-20260714xex991.htm"&gt;sec.gov&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ibm-q1-release ((reference) IBM newsroom, 22 Apr 2026: [IBM releases first-quarter results (previous guidance)]()): &lt;a href="https://newsroom.ibm.com/2026-04-22-IBM-RELEASES-FIRST-QUARTER-RESULTS"&gt;newsroom.ibm.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ibm-calendar ((reference) IBM newsroom, 7 Oct 2026: [IBM to announce third-quarter 2026 financial results]()): &lt;a href="https://newsroom.ibm.com/2026-10-07-ibm-to-announce-third-quarter-2026-financial-results"&gt;newsroom.ibm.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Market reaction&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ibm-cnbc ((news) CNBC, 14 Jul 2026: [IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning]()): &lt;a href="https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"&gt;cnbc.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <guid isPermaLink="false">nics-morning-brief-test-2026-10-18-ibm-results</guid>
+      <pubDate>Sun, 18 Oct 2026 10:22:46 +0200</pubDate>
+      <enclosure url="https://nicnormansmith.github.io/nmb-f8uxu0r6/episodes/test-2026-10-18-ibm-results.mp3" length="6633528" type="audio/mpeg" />
+      <itunes:duration>550</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+    </item>
     <item>
       <title>Nic's Morning Brief — Sunday 18 October 2026</title>
       <itunes:title>Nic's Morning Brief — Sunday 18 October 2026</itunes:title>
