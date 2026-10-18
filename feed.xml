@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Nic's Morning Brief</title>
     <link>https://nicnormansmith.github.io/nmb-f8uxu0r6/</link>
     <atom:link href="https://nicnormansmith.github.io/nmb-f8uxu0r6/feed.xml" rel="self" type="application/rss+xml" />
     <description>A private six-minute morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 18 Oct 2026 03:42:35 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:04:48 +0200</lastBuildDate>
     <image>
       <url>https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg</url>
       <title>Nic's Morning Brief</title>
@@ -21,6 +21,8 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:private>yes</itunes:private>
+    <itunes:block>Yes</itunes:block>
+    <googleplay:block>yes</googleplay:block>
     <item>
       <title>Nic's Morning Brief — Sunday 18 October 2026</title>
       <itunes:title>Nic's Morning Brief — Sunday 18 October 2026</itunes:title>
