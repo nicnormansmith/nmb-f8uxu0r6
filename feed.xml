@@ -6,7 +6,7 @@
     <atom:link href="https://nicnormansmith.github.io/nmb-f8uxu0r6/feed.xml" rel="self" type="application/rss+xml" />
     <description>A private morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:22:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:23:13 +0200</lastBuildDate>
     <image>
       <url>https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg</url>
       <title>Nic's Morning Brief</title>
@@ -23,6 +23,19 @@
     <itunes:private>yes</itunes:private>
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
+    <item>
+      <title>Test: Today in AI, Sunday 18 October</title>
+      <itunes:title>Test: Today in AI, Sunday 18 October</itunes:title>
+      <description>&lt;p&gt;Test: Today in AI, Sunday 18 October.&lt;/p&gt;&lt;p&gt;One-off test of Today in AI, read by Emma.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Test: Today in AI, Sunday 18 October.&lt;/p&gt;&lt;p&gt;One-off test of Today in AI, read by Emma.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">nics-morning-brief-test-2026-10-18-today-in-ai</guid>
+      <pubDate>Sun, 18 Oct 2026 10:23:13 +0200</pubDate>
+      <enclosure url="https://nicnormansmith.github.io/nmb-f8uxu0r6/episodes/test-2026-10-18-today-in-ai.mp3" length="5477949" type="audio/mpeg" />
+      <itunes:duration>454</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+    </item>
     <item>
       <title>Test: IBM results special (July's second-quarter figures) — Sunday 18 October 2026</title>
       <itunes:title>Test: IBM results special (July's second-quarter figures) — Sunday 18 October 2026</itunes:title>
