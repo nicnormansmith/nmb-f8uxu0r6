@@ -6,7 +6,7 @@
     <atom:link href="https://nicnormansmith.github.io/nmb-f8uxu0r6/feed.xml" rel="self" type="application/rss+xml" />
     <description>A private morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 19 Oct 2026 03:57:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:27:09 +0200</lastBuildDate>
     <image>
       <url>https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg</url>
       <title>Nic's Morning Brief</title>
@@ -23,6 +23,19 @@
     <itunes:private>yes</itunes:private>
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
+    <item>
+      <title>Today in AI, Monday 19 October</title>
+      <itunes:title>Today in AI, Monday 19 October</itunes:title>
+      <description>&lt;p&gt;Today in AI, Monday 19 October.&lt;/p&gt;&lt;p&gt;The day's AI news in about 8 minutes, voiced by Emma.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;How employment is changing at Anthropic (Anthropic): &lt;a href="https://www.anthropic.com/research/employment-at-anthropic"&gt;anthropic.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The AI expectations gap (Anthropic): &lt;a href="https://www.anthropic.com/research/ai-expectations-gap"&gt;anthropic.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Designing more efficient quantum circuits with Claude (Anthropic): &lt;a href="https://www.anthropic.com/research/designing-efficient-quantum-circuits"&gt;anthropic.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChatGPT release notes: Updates to GPT-6 Pro model in ChatGPT (OpenAI Help Center): &lt;a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes"&gt;help.openai.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;deepseek-ai/DeepSeek-V4.1-Flash-1017 (official model release) (DeepSeek on Hugging Face): &lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"&gt;huggingface.co&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real (DeepSeek API Docs): &lt;a href="https://api-docs.deepseek.com/news/news261017"&gt;api-docs.deepseek.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded>&lt;p&gt;Today in AI, Monday 19 October.&lt;/p&gt;&lt;p&gt;The day's AI news in about 8 minutes, voiced by Emma.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;How employment is changing at Anthropic (Anthropic): &lt;a href="https://www.anthropic.com/research/employment-at-anthropic"&gt;anthropic.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The AI expectations gap (Anthropic): &lt;a href="https://www.anthropic.com/research/ai-expectations-gap"&gt;anthropic.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Designing more efficient quantum circuits with Claude (Anthropic): &lt;a href="https://www.anthropic.com/research/designing-efficient-quantum-circuits"&gt;anthropic.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChatGPT release notes: Updates to GPT-6 Pro model in ChatGPT (OpenAI Help Center): &lt;a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes"&gt;help.openai.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;deepseek-ai/DeepSeek-V4.1-Flash-1017 (official model release) (DeepSeek on Hugging Face): &lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"&gt;huggingface.co&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real (DeepSeek API Docs): &lt;a href="https://api-docs.deepseek.com/news/news261017"&gt;api-docs.deepseek.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <guid isPermaLink="false">nics-morning-brief-today-in-ai-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 14:27:09 +0200</pubDate>
+      <enclosure url="https://nicnormansmith.github.io/nmb-f8uxu0r6/episodes/today-in-ai-2026-10-19.mp3" length="5975419" type="audio/mpeg" />
+      <itunes:duration>495</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+    </item>
     <item>
       <title>Nic's Morning Brief — Monday 19 October 2026</title>
       <itunes:title>Nic's Morning Brief — Monday 19 October 2026</itunes:title>
