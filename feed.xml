@@ -6,7 +6,7 @@
     <atom:link href="https://nicnormansmith.github.io/nmb-f8uxu0r6/feed.xml" rel="self" type="application/rss+xml" />
     <description>A private morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 21 Oct 2026 03:46:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:55:25 +0200</lastBuildDate>
     <image>
       <url>https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg</url>
       <title>Nic's Morning Brief</title>
@@ -23,6 +23,19 @@
     <itunes:private>yes</itunes:private>
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
+    <item>
+      <title>SpaceX third-quarter results — Wednesday 21 October 2026</title>
+      <itunes:title>SpaceX third-quarter results — Wednesday 21 October 2026</itunes:title>
+      <description>&lt;p&gt;SpaceX third-quarter results — Wednesday 21 October 2026.&lt;/p&gt;&lt;p&gt;SpaceX's third-quarter results: the numbers, Super Intelligence, Starlink, the rockets and the cash.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;spacex-release ((news) SpaceX (SEC Form 8-K, Exhibit 99.1), 20 Oct 2026 22:00 SAST: [SpaceX Reports Third Quarter 2026 Results]()): &lt;a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"&gt;sec.gov&lt;/a&gt;&lt;/li&gt;&lt;li&gt;spacex-8k ((news) SpaceX (SEC Form 8-K, Item 2.02, signed by CFO Bret Johnsen), 20 Oct 2026: [Form 8-K]()): &lt;a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spcx-20261020.htm"&gt;sec.gov&lt;/a&gt;&lt;/li&gt;&lt;li&gt;spacex-ir-event ((reference) SpaceX investor relations: [Q3 2026 Earnings, 20 Oct 2026, 3:30 PM CT]()): &lt;a href="https://ir.spacex.com/events/event-details/2026/Q3-2026-Earnings/"&gt;ir.spacex.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Call, consensus and market reaction&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;spacex-cnbc ((news) CNBC live updates, published 20 Oct 2026 15:00 SAST, last modified 21 Oct 2026 02:42 SAST: [SpaceX (SPCX) Q3 2026 earnings report: Live updates]()): &lt;a href="https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html"&gt;cnbc.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What to watch next&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;tesla-q3-date ((reference) Tesla (SEC Form 8-K, Exhibit 99.1), 2 Oct 2026: [Tesla Third Quarter 2026 Production, Deliveries &amp;amp; Deployments]()): &lt;a href="https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm"&gt;sec.gov&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded>&lt;p&gt;SpaceX third-quarter results — Wednesday 21 October 2026.&lt;/p&gt;&lt;p&gt;SpaceX's third-quarter results: the numbers, Super Intelligence, Starlink, the rockets and the cash.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;spacex-release ((news) SpaceX (SEC Form 8-K, Exhibit 99.1), 20 Oct 2026 22:00 SAST: [SpaceX Reports Third Quarter 2026 Results]()): &lt;a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"&gt;sec.gov&lt;/a&gt;&lt;/li&gt;&lt;li&gt;spacex-8k ((news) SpaceX (SEC Form 8-K, Item 2.02, signed by CFO Bret Johnsen), 20 Oct 2026: [Form 8-K]()): &lt;a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spcx-20261020.htm"&gt;sec.gov&lt;/a&gt;&lt;/li&gt;&lt;li&gt;spacex-ir-event ((reference) SpaceX investor relations: [Q3 2026 Earnings, 20 Oct 2026, 3:30 PM CT]()): &lt;a href="https://ir.spacex.com/events/event-details/2026/Q3-2026-Earnings/"&gt;ir.spacex.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Call, consensus and market reaction&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;spacex-cnbc ((news) CNBC live updates, published 20 Oct 2026 15:00 SAST, last modified 21 Oct 2026 02:42 SAST: [SpaceX (SPCX) Q3 2026 earnings report: Live updates]()): &lt;a href="https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html"&gt;cnbc.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What to watch next&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;tesla-q3-date ((reference) Tesla (SEC Form 8-K, Exhibit 99.1), 2 Oct 2026: [Tesla Third Quarter 2026 Production, Deliveries &amp;amp; Deployments]()): &lt;a href="https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm"&gt;sec.gov&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <guid isPermaLink="false">nics-morning-brief-results-2026-10-21-spacex</guid>
+      <pubDate>Wed, 21 Oct 2026 05:55:25 +0200</pubDate>
+      <enclosure url="https://nicnormansmith.github.io/nmb-f8uxu0r6/episodes/results-2026-10-21-spacex.mp3" length="6359817" type="audio/mpeg" />
+      <itunes:duration>527</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+    </item>
     <item>
       <title>Nic's Morning Brief — Wednesday 21 October 2026</title>
       <itunes:title>Nic's Morning Brief — Wednesday 21 October 2026</itunes:title>
