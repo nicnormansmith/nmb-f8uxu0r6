@@ -6,7 +6,7 @@
     <atom:link href="https://nicnormansmith.github.io/nmb-f8uxu0r6/feed.xml" rel="self" type="application/rss+xml" />
     <description>A private morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:31:41 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:46:19 +0200</lastBuildDate>
     <image>
       <url>https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg</url>
       <title>Nic's Morning Brief</title>
@@ -23,6 +23,19 @@
     <itunes:private>yes</itunes:private>
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
+    <item>
+      <title>Nic's Morning Brief — Saturday 24 October 2026</title>
+      <itunes:title>Nic's Morning Brief — Saturday 24 October 2026</itunes:title>
+      <description>&lt;p&gt;Nic's Morning Brief — Saturday 24 October 2026. Sport, business and tech in about 5 minutes.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Nic's Morning Brief — Saturday 24 October 2026. Sport, business and tech in about 5 minutes.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">nics-morning-brief-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 03:46:19 +0200</pubDate>
+      <enclosure url="https://nicnormansmith.github.io/nmb-f8uxu0r6/episodes/brief-2026-10-24.mp3" length="3426037" type="audio/mpeg" />
+      <itunes:duration>283</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+    </item>
     <item>
       <title>Today in AI, Friday 23 October</title>
       <itunes:title>Today in AI, Friday 23 October</itunes:title>
