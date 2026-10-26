@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Nic's Morning Brief</title>
+    <title>The Briefing Room</title>
     <link>https://nicnormansmith.github.io/nmb-f8uxu0r6/</link>
     <atom:link href="https://nicnormansmith.github.io/nmb-f8uxu0r6/feed.xml" rel="self" type="application/rss+xml" />
-    <description>A private morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</description>
+    <description>Nic's private briefing room: the daily Morning Brief (sport, business and tech), the weekday Today in AI, and results and budget specials, each written fresh with a linked, dated source for every story.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:31:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 20:55:33 +0200</lastBuildDate>
     <image>
-      <url>https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg</url>
-      <title>Nic's Morning Brief</title>
+      <url>https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg</url>
+      <title>The Briefing Room</title>
       <link>https://nicnormansmith.github.io/nmb-f8uxu0r6/</link>
     </image>
     <itunes:author>News</itunes:author>
-    <itunes:summary>A private morning news brief for Nic: sport, business and tech, written fresh each day with a linked, dated source for every story.</itunes:summary>
-    <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+    <itunes:summary>Nic's private briefing room: the daily Morning Brief (sport, business and tech), the weekday Today in AI, and results and budget specials, each written fresh with a linked, dated source for every story.</itunes:summary>
+    <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
@@ -34,7 +34,7 @@
       <itunes:duration>568</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Monday 26 October 2026</title>
@@ -47,7 +47,7 @@
       <itunes:duration>466</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Sunday 25 October 2026</title>
@@ -60,7 +60,7 @@
       <itunes:duration>271</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Saturday 24 October 2026</title>
@@ -73,7 +73,7 @@
       <itunes:duration>283</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Today in AI, Friday 23 October</title>
@@ -86,7 +86,7 @@
       <itunes:duration>520</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Friday 23 October 2026</title>
@@ -99,7 +99,7 @@
       <itunes:duration>463</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>RELX nine-month trading update</title>
@@ -112,7 +112,7 @@
       <itunes:duration>599</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Today in AI, Thursday 22 October</title>
@@ -125,7 +125,7 @@
       <itunes:duration>492</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Thursday 22 October 2026</title>
@@ -138,7 +138,7 @@
       <itunes:duration>459</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>IBM third-quarter results — Thursday 22 October 2026</title>
@@ -151,7 +151,7 @@
       <itunes:duration>672</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Tesla third-quarter results — Thursday 22 October 2026</title>
@@ -164,7 +164,7 @@
       <itunes:duration>646</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Budget special: South Africa's medium-term budget</title>
@@ -177,7 +177,7 @@
       <itunes:duration>488</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Today in AI, Wednesday 21 October</title>
@@ -190,7 +190,7 @@
       <itunes:duration>499</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>SpaceX third-quarter results — Wednesday 21 October 2026</title>
@@ -203,7 +203,7 @@
       <itunes:duration>527</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Wednesday 21 October 2026</title>
@@ -216,7 +216,7 @@
       <itunes:duration>452</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Today in AI, Tuesday 20 October</title>
@@ -229,7 +229,7 @@
       <itunes:duration>514</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Tuesday 20 October 2026</title>
@@ -242,7 +242,7 @@
       <itunes:duration>346</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Today in AI, Monday 19 October</title>
@@ -255,7 +255,7 @@
       <itunes:duration>495</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Monday 19 October 2026</title>
@@ -268,7 +268,7 @@
       <itunes:duration>363</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Test: Monday brief (free Emma voice) — Sunday 18 October 2026</title>
@@ -281,7 +281,7 @@
       <itunes:duration>396</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Test: Today in AI, Sunday 18 October</title>
@@ -294,7 +294,7 @@
       <itunes:duration>454</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Test: IBM results special (July's second-quarter figures) — Sunday 18 October 2026</title>
@@ -307,7 +307,7 @@
       <itunes:duration>550</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Sunday 18 October 2026</title>
@@ -320,7 +320,7 @@
       <itunes:duration>207</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
     <item>
       <title>Nic's Morning Brief — Saturday 17 October 2026</title>
@@ -333,7 +333,7 @@
       <itunes:duration>356</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/artwork.jpg" />
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
     </item>
   </channel>
 </rss>
