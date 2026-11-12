@@ -6,7 +6,7 @@
     <atom:link href="https://nicnormansmith.github.io/nmb-f8uxu0r6/feed.xml" rel="self" type="application/rss+xml" />
     <description>Nic's private briefing room: the daily Morning Brief (sport, business and tech), the weekday Today in AI, and results and budget specials, each written fresh with a linked, dated source for every story.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:34:15 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:40:34 +0200</lastBuildDate>
     <image>
       <url>https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg</url>
       <title>The Briefing Room</title>
@@ -23,6 +23,19 @@
     <itunes:private>yes</itunes:private>
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
+    <item>
+      <title>Today in AI, Thursday 12 November</title>
+      <itunes:title>Today in AI, Thursday 12 November</itunes:title>
+      <description>&lt;p&gt;Today in AI, Thursday 12 November.&lt;/p&gt;&lt;p&gt;The day's AI news in about 9 minutes, voiced by Eve.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Today in AI, Thursday 12 November.&lt;/p&gt;&lt;p&gt;The day's AI news in about 9 minutes, voiced by Eve.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">nics-morning-brief-today-in-ai-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 15:40:34 +0200</pubDate>
+      <enclosure url="https://nicnormansmith.github.io/nmb-f8uxu0r6/episodes/today-in-ai-2026-11-12.mp3" length="6487908" type="audio/mpeg" />
+      <itunes:duration>537</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://nicnormansmith.github.io/nmb-f8uxu0r6/cover.jpg" />
+    </item>
     <item>
       <title>Bridgestone third-quarter results — Thursday 12 November 2026</title>
       <itunes:title>Bridgestone third-quarter results — Thursday 12 November 2026</itunes:title>
